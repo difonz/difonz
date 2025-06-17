@@ -67,5 +67,5 @@ Here are a few things I've picked up along my learning Journey:
 
 
 
-![ViewCount](https://komarev.com/ghpvc/?username=difonz&color=1A4730)
+![ViewCount](https://komarev.com/ghpvc/?username=difonz&color=40826D)
 
