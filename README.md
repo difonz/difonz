@@ -1,6 +1,6 @@
 # Welcome to my Github!
 <p>
-## Hi 👋, I am **Kevin** / **Fonz** aspiring software developer / Data engineering. I specialize in backend development that loves networking and learning new things!
+Hi 👋, I am **Kevin** / **Fonz** aspiring software developer / Data engineering. I specialize in backend development that loves networking and learning new things!
 
 <div>
 <details>
