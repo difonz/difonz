@@ -7,7 +7,7 @@
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently on a journey to becoming a **software developer / Data engineer**!
+- 🔭 I’m currently on a journey to becoming a **software developer** / **Data engineer!**
 
 - 🌱 I’m currently learning **everything I can!**
 
@@ -15,3 +15,14 @@
 </p>
 
 ## 🔥 Github Stats
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=difonz&show_icons=true&theme=dark&title_color=40826D&text_color=40826D&icon_color=40826D&border_color=40826D&bg_color=000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=difonz&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=difonz&show_icons=true" />
+</picture>
